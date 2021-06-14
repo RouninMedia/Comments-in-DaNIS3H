@@ -1,11 +1,11 @@
-# Comments in Da3SH
+# Comments in DaNIS3H
 Detailing the in-code comments, commented code and in-component comments in Ashiva.
 
 _____
 
-## In-code Comments in Da3SH
+## In-code Comments in DaNIS3H
 
-Every component in Da3SH has a comment element:
+Every component in DaNIS3H has a comment element:
 
 ### Script and jsModule Components
 
@@ -17,8 +17,8 @@ Every component in Da3SH has a comment element:
 
 _____
 
-## Commented Code in Da3SH
+## Commented Code in DaNIS3H
 
 _____
 
-## In-component Comments in Da3SH
+## In-component Comments in DaNIS3H
